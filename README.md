@@ -1,6 +1,7 @@
 # Joule Thief Circuit (under development all related files will be uploaded soon)
 
-![Joule Thief Circuit Banner](link-to-your-banner-image)
+![lion logo white](https://github.com/user-attachments/assets/f6729db4-06b9-4536-9885-d528c06569cd)
+
 
 This repository contains the design and documentation for a **Joule Thief Circuit** — a simple boost converter that efficiently extracts energy from low-voltage sources, such as nearly depleted batteries. The circuit is capable of powering devices like LEDs from as low as 0.3V input.
 
