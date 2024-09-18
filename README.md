@@ -1,7 +1,7 @@
 # Joule Thief Circuit (under development all related files will be uploaded soon)
 
 
-##project logo
+## project logo
 ![lion logo white](https://github.com/user-attachments/assets/f6729db4-06b9-4536-9885-d528c06569cd)
 
 
