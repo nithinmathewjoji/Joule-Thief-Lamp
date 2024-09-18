@@ -38,7 +38,7 @@ Here’s how it works:
 
 ## Circuit Diagram
 
-![Joule Thief Circuit Diagram](link-to-circuit-diagram)
+![Joule Thief Circuit Diagram](link-to-circuit-diagram)   will be uploaded soon
 
 The circuit consists of:
 - **Transistor** (e.g., 2N2222, BC547)
@@ -62,7 +62,7 @@ The circuit consists of:
 2. **Assemble the Circuit**: Connect the inductor, transistor, resistor, and LED as per the circuit diagram.
 3. **Test the Circuit**: Attach the low-voltage power source and watch the LED light up.
 
-For detailed step-by-step instructions, refer to the [Build Guide](link-to-detailed-guide).
+For detailed step-by-step instructions, refer to the [Build Guide](link-to-detailed-guide). will be updated soon
 
 ## Applications
 
