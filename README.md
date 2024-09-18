@@ -2,7 +2,7 @@
 
 
 ## project logo
-![lion logo white](https://github.com/user-attachments/assets/f6729db4-06b9-4536-9885-d528c06569cd)
+![VampBoost logo 3](https://github.com/user-attachments/assets/cd8e1e07-b31b-4030-95eb-0dcdad44d663)
 
 
 This repository contains the design and documentation for a **Joule Thief Circuit** — a simple boost converter that efficiently extracts energy from low-voltage sources, such as nearly depleted batteries. The circuit is capable of powering devices like LEDs from as low as 0.3V input.
