@@ -43,7 +43,7 @@ Here’s how it works:
 ![VampBoost schematics hand drawn](https://github.com/user-attachments/assets/85853c16-f345-41be-a404-53946a6cb1eb)
 
 
-The circuit consists of:
+The main components of this circuit:
 - **Transistor** (e.g., 2N2222, BC547)
 - **Inductor** (two windings on a toroidal core)
 - **Resistor** (typically 1kΩ to 10kΩ)
