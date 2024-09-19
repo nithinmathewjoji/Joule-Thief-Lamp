@@ -40,7 +40,8 @@ Here’s how it works:
 
 ## Circuit Diagram
 
-![Joule Thief Circuit Diagram](link-to-circuit-diagram)   will be uploaded soon
+![VampBoost schematics hand drawn](https://github.com/user-attachments/assets/85853c16-f345-41be-a404-53946a6cb1eb)
+
 
 The circuit consists of:
 - **Transistor** (e.g., 2N2222, BC547)
@@ -48,7 +49,7 @@ The circuit consists of:
 - **Resistor** (typically 1kΩ to 10kΩ)
 - **Diode/LED** (output load)
 
-## Components Required
+## Components Required (rough list actual list will be updated soon)
 
 - **NPN Transistor** (2N2222, BC547, or similar)
 - **Toroidal Inductor Core**
