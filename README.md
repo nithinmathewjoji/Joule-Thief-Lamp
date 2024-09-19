@@ -1,4 +1,4 @@
-# Joule Thief Circuit (under development all related files will be uploaded soon)
+# VampBoost - joule thief circuit (**under development all related files will be uploaded soon**)
 
 
 ## project logo
