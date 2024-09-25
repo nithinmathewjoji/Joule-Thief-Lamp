@@ -2,7 +2,7 @@
 
 
 ## project logo
-![VampBoost logo 3](https://github.com/user-attachments/assets/cd8e1e07-b31b-4030-95eb-0dcdad44d663)
+![logo](https://github.com/user-attachments/assets/0ce2df57-75c0-4e0e-842e-c3342da03895)
 
 
 **VampBoost**
