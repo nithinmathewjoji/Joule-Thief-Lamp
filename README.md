@@ -96,7 +96,7 @@ The Joule Thief circuit works because it uses inductive energy storage and feedb
 2. **Assemble the Circuit**: Connect the inductor, transistor, resistor, and LED as per the circuit diagram.
 3. **Test the Circuit**: Attach the low-voltage power source and watch the LED light up.
 
-For detailed step-by-step instructions, refer to the [Build Guide](./Build Guide/Build Guide.md). will be updated soon
+For detailed step-by-step instructions, refer to the [Build Guide]([https://github.com/nithinmathewjoji/Joule-Thief-Lamp-VampBoost/blob/master/Build%20Guide/Build%20Guide.md](url)). will be updated soon
 
 ## Applications
 
